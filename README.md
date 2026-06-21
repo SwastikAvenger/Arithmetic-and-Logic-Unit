@@ -1,3 +1,4 @@
+# Introduction to Arithmetic and Logic Unit
 The Arithmetic and Logic Unit is a fundamental computing resource in a Central Processing Unit. It carries out __Arithmetic__ and __Logical__ operations. The ALU
 is divided into two parts, the Arithmetic Unit and the Logical Unit. Some processors contain more than one Arithmetic Units, for example, one for **Fixed Point** Operations 
 and another for **Floating Point** Operations. 
